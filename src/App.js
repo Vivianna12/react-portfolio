@@ -8,6 +8,7 @@ export default function App() {
       <header className="App-header">
         <Navabar />
       </header>
+
       <main>
         <div className="homepage-intro">
           <h1>Vivianna Samite Estevez</h1>
